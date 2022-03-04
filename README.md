@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a lot of stuff.
 - 🌱 I’m currently learning Python
 - 💬 Ask me about [Marvel Cinematic Universe](https://www.marvel.com/)
-- 📫 How to reach me: https://wolmer.cf/
+- 📫 How to reach me: https://wolmer.me/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i sleep alot.
 
