@@ -12,19 +12,19 @@
 ---
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolmer-afk&hide=stars,sprs,issues&count_private=true&show_icons=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewolmer&hide=stars,sprs,issues&count_private=true&show_icons=true&theme=dark">
  </p>
  
  ---
  
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=wolmer-afk&label=Profile%20views&color=270a75&style=flat" alt="wolmer-afk" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=thewolmer&label=Profile%20views&color=270a75&style=flat" alt="wolmer-afk" /> </p>
  
  ---
  
  
 <br>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wolmer-afk&theme=react-dark">
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thewolmer&theme=react-dark">
 
 
 
