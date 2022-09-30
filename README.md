@@ -3,7 +3,7 @@
  
  ### Hi there 👋
 - 🔭 I’m currently working on cool stuff
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m currently learning NFT Development
 - 💬 Ask me about [Marvel Cinematic Universe](https://www.marvel.com/)
 - 📫 How to reach me: https://wolmer.me/
 - 😄 Pronouns: he/him
@@ -18,7 +18,7 @@
  ---
  
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thewolmer&label=Profile%20views&color=270a75&style=flat" alt="wolmer-afk" /> </p>
+ <p align="center"> <img src="https://lanyard.cnrad.dev/api/932865250930360331?theme=DARK&animated=true&hideDiscrim=true&borderRadius=30px" /> </p>
  
  ---
  
