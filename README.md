@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on cool stuff
 - 🌱 I’m currently learning NFT Development
 - 💬 Ask me about [Marvel Cinematic Universe](https://www.marvel.com/)
-- 📫 How to reach me: https://wolmer.me/
+- 📫 How to reach me: mailto:contact@wolmer.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i sleep alot. 
 
