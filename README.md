@@ -21,10 +21,3 @@
  <p align="center"> <img src="https://lanyard.cnrad.dev/api/932865250930360331?theme=DARK&animated=true&hideDiscrim=true&borderRadius=30px" /> </p>
  
  ---
- 
- 
-<br>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thewolmer&theme=react-dark">
-
-
-
