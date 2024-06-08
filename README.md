@@ -9,15 +9,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i sleep alot. 
 
----
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewolmer&hide=stars,sprs,issues&count_private=true&show_icons=true&theme=dark">
- </p>
  
  ---
- 
-<p align="center"> REAL TIME ACTIVITY STATUS </p>
- <p align="center"> <img src="https://lanyard.cnrad.dev/api/932865250930360331?theme=DARK&animated=true&hideDiscrim=true&borderRadius=30px" /> </p>
- 
- ---
+ <p align="left"> <img src="https://lanyard.cnrad.dev/api/932865250930360331?theme=DARK&animated=true&hideDiscrim=true&borderRadius=30px" /> </p>
+
